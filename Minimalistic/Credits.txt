@@ -1,0 +1,6 @@
+App Volume Plugin by khanhas: https://github.com/khanhas/AppVolumePlugin/releases
+
+Hyper Light Drifter Font by u/hiryu64: https://www.reddit.com/r/hyperlightdrifter/comments/4esvxl/i_made_a_font_based_on_the_ingame_menu_text/
+
+Everything else is coded and drawn by me.
+
